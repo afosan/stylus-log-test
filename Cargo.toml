@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-alloy-primitives = "0.6.2"
+alloy-primitives = "0.3.1"
 alloy-sol-types = "0.3.1"
 mini-alloc = "0.4.2"
 stylus-sdk = "0.4.2"
